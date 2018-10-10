@@ -1,0 +1,28 @@
+
+# Python
+venv/
+__pycache__/
+
+# Pastas ocultas
+.sonarlint
+.vscode
+.scannerwork
+
+# Arquivos temporários
+temp/
+*.zip
+*.csv
+*.csv#
+*.lock
+*.log
+
+# Build e Dist
+build/
+dist/
+app.egg-info/
+
+# Testes
+.pytest_cache/
+.coverage
+coverage-reports/
+nosetests.xml

@@ -1,0 +1,12 @@
+setuptools
+wheel
+requests
+pipenv
+numpy
+pandas
+pymongo
+flask
+flask_cors
+pytest
+nose
+waitress
